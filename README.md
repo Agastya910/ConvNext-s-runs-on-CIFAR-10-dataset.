@@ -1,0 +1,1 @@
+# ConvNext-s-runs-on-CIFAR-10-dataset.
